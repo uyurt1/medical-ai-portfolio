@@ -1,0 +1,21 @@
+# Documentation-only allowlist. Review any new file before publication.
+/*
+!/README.md
+!/RIGHTS.md
+!/assets/
+/assets/*
+!/assets/confusion-matrix.svg
+!/assets/dice-comparison.svg
+!/assets/error-analysis.svg
+!/assets/unet-architecture.svg
+!/docs/
+/docs/*
+!/docs/LIMITATIONS.md
+!/docs/METHODOLOGY.md
+!/docs/RESULTS.md
+!/results/
+/results/*
+!/results/aggregate_results.csv
+!/results/confusion_counts.csv
+!/results/error_counts.csv
+!/.gitignore

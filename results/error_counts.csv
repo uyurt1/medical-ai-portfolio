@@ -1,0 +1,7 @@
+cohort,endpoint,numerator,denominator
+development,native_negative_slice_fp,2813,8273
+test,native_negative_slice_fp,2892,8231
+development,non_enhancing_zero_overlap,7,97
+test,non_enhancing_zero_overlap,6,97
+development,enhancing_zero_overlap,5,93
+test,enhancing_zero_overlap,8,96
